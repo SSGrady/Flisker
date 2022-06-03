@@ -14,6 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
 import com.example.flixtor.MovieDetailsActivity;
 import com.example.flixtor.R;
 import com.example.flixtor.models.Movie;
